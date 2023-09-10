@@ -28,7 +28,7 @@ export default {
       },
     },
     {
-      'Analiza Matematyzna I': {
+      'Analiza matematyczna I': {
         'W. Krysicki, L. Włodarski - Analiza matematyczna w zadaniach 1, 2': [
           'https://wit.uber.pl/pliki/ID%20Semestr%20I/Analiza%20Matematyczna/Ksiazki/Krysicki.Wlodarski.-.Analiza.matematyczna.w.zadaniach.cz.I.pdf',
           'https://lucc.pl/inf/analiza_1/krysicki_wlodarski__analiza_matematyczna_w_zadaniach__tom_2.pdf',

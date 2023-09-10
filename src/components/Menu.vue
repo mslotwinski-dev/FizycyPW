@@ -2,7 +2,7 @@
   <div class="container">
     <router-link to="/ksiazki">Książki</router-link>
     <router-link to="/notatki">Notatnki</router-link>
-    <router-link to="/terminy">Terminy</router-link>
+    <router-link to="/terminy">Inne</router-link>
   </div>
 </template>
 

@@ -68,7 +68,7 @@ export default {
     {
       'Podstawy technologii informacyjnej': {},
     },
-    { 'Podstawy Fotografii [PHOTONICS]': {} },
+    { 'Podstawy fotografii [PHOTONICS]': {} },
     { 'Cyberprzestępczość [HUMAN]': {} },
     { 'Sztuka myślenia i uczenia się [HUMAN]': {} },
   ],

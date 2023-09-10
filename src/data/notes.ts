@@ -10,7 +10,7 @@ export default {
       'https://drive.google.com/drive/folders/1Zad8sar1kxYi8lRqdGKjq1Vc3foYiM1r?usp=sharing',
     'Podstawy technologii informacyjnej':
       'https://drive.google.com/drive/folders/1D5Q9VWlna6O4bavV3VZlvxlaRRJjyTxQ?usp=sharing',
-    'Podstawy Fotografii [PHOTONICS]':
+    'Podstawy fotografii [PHOTONICS]':
       'https://drive.google.com/drive/folders/1dK_kODInCvzPdMO_XZA-L09W5QEjdYdR?usp=sharing',
     'Cyberprzestępczość [HUMAN]':
       'https://drive.google.com/drive/folders/1KAP5XDhEnq5ICqOe3TM4I4UZypBi7A2s?usp=sharing',

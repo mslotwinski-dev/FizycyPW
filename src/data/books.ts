@@ -43,6 +43,11 @@ export default {
           '/db/S-AM11.pdf',
           '/db/S-AM11.pdf',
         ],
+        'G. Fichtenholz - Rachunek rózniczkowy i całkowy 1-3': [
+          '/db/F_RRC1.pdf',
+          '/db/F_RRC2.pdf',
+          '/db/F_RRC3.pdf',
+        ],
       },
     },
     {
@@ -50,6 +55,21 @@ export default {
         'W. Bogusz, J. Garbarczyk, F. Krok - Podstawy Fizyki': ['/db/PFiz.pdf'],
         'J. Garbarczyk, M. Wasiucionek, T.K. Pietrzak - Zadania i przykłady z fizyki':
           [],
+        'Resnick, D. Halliday - Podstawy Fizyki 1-5 + EN': [
+          '/db/RS_PF1.pdf',
+          '/db/RS_PF2.pdf',
+          '/db/RS_PF3.pdf',
+          '/db/RS_PF4.pdf',
+          '/db/RS_PF5.pdf',
+          '/db/RS_PF_EN.pdf',
+        ],
+        'M. Sands, R. Feynman - Feynmana wykłady z fizyki 1.1-3': [
+          '/db/FEYN_WF11.pdf',
+          '/db/FEYN_WF12.pdf',
+          '/db/FEYN_WF21.pdf',
+          '/db/FEYN_WF22.pdf',
+          '/db/FEYN_WF3.pdf',
+        ],
       },
     },
     {
